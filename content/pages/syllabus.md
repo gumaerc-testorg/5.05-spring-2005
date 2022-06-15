@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, recommended
+  textbooks, class work, exams, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 0ac8e7fb-8865-9889-e9f4-411ffa666d8d
 ---
