@@ -6,6 +6,7 @@ file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/2259a7f021
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_6.pdf
 uid: 2259a7f0-21aa-bb38-4a69-8cca5e1fa81a
 ---
 Notes on bonding in digallyne, and which Lewis structure best represents the molecule's bonding?
-

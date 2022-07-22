@@ -5,6 +5,7 @@ file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/80547a7701
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_5.pdf
 uid: 80547a77-0117-a7d9-c56a-d97c4df679e9
 ---
 Notes on Group 13 ER as Co analogs.
-

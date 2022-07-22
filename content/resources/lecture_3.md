@@ -6,6 +6,7 @@ file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/aa62868ead
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_3.pdf
 uid: aa62868e-ad3a-5fd8-fd5b-83812bff9336
 ---
 Notes on metalloid clusters, and realization of +1 oxidation state for Al.
-

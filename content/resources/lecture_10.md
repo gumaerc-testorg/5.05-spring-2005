@@ -6,6 +6,7 @@ file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/953ddac0de
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_10.pdf
 uid: 953ddac0-de2b-3de2-50bd-65445a94de65
 ---
 Notes on studying powerful oxidants, noble gas chemistry, and VSEPR - ELF.
-
