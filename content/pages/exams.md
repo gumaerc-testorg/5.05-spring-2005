@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course exams.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 6ba5acaa-18bb-91f4-9e25-d4e9f823db28
 ---
@@ -24,7 +28,7 @@ EXAMS
 1-4
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 1 (In-class) ([PDF]({{< baseurl >}}/resources/exam_1))
+Exam 1 (In-class) ({{% resource_link 02600064-67ef-ef10-d182-7dc69693f57d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Exam 2 (Oral Presentations)
 8-11
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 3 (Take-home) ([PDF]({{< baseurl >}}/resources/exam3_s05_2005))
+Exam 3 (Take-home) ({{% resource_link 7d3de36e-eac3-933c-2cce-a2fa8b1a6ec3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
