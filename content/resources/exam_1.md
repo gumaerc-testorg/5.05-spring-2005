@@ -6,6 +6,7 @@ description: 'This resource contains instructions for the exam and 10 questions 
   compound, calculate the average Al oxidation state, LAl, where L is the Nacnac ligand
   type, phospha-Wittig reagent, and hypothetical singlet phosphinidene.'
 file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/0260006467efef10d1827dc69693f57d_exam_1.pdf
+file_size: 158879
 file_type: application/pdf
 learning_resource_types:
 - Exams
