@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes on bonding in digallyne, and which Lewis structure best represents
   the molecule's bonding?
-file: /ol-ocw-studio-app/courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/2259a7f021aabb384a698cca5e1fa81a_lecture_6.pdf
+file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/2259a7f021aabb384a698cca5e1fa81a_lecture_6.pdf
 file_size: 110804
 file_type: application/pdf
 learning_resource_types:

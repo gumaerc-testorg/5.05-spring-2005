@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes on alumination, chemical shielding for carbenes, and reactions
   of LAL.
-file: /ol-ocw-studio-app/courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/8c4e9215c5ac6a7a60814a3481ecbb57_lecture_2.pdf
+file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/8c4e9215c5ac6a7a60814a3481ecbb57_lecture_2.pdf
 file_size: 223257
 file_type: application/pdf
 learning_resource_types:
