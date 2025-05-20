@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes on metalloid clusters, and realization of +1 oxidation state for
   Al.
-file: /ol-ocw-studio-app/courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/aa62868ead3a5fd8fd5b83812bff9336_lecture_3.pdf
+file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/aa62868ead3a5fd8fd5b83812bff9336_lecture_3.pdf
 file_size: 321055
 file_type: application/pdf
 learning_resource_types:
